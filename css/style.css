@@ -33,7 +33,7 @@ main {
     height: 18%;
 }
 
-.pokemon__data {
+.pokemon-data {
     position: absolute;
     font-weight: 600;
     color: #aaa;
