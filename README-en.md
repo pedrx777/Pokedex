@@ -1,3 +1,5 @@
+[Pokedex](https://pokedex-pedrx777.vercel.app)
+
 [README In Portuguese](./README.md) 🇧🇷
 
 # 🛒 Pokedex with JavaScript 
